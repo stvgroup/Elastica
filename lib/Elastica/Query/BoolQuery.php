@@ -12,7 +12,7 @@ use Elastica\Exception\InvalidException;
  * @author Nicolas Ruflin <spam@ruflin.com>
  * @link http://www.elasticsearch.org/guide/reference/query-dsl/bool-query.html
  */
-class Bool extends AbstractQuery
+class BoolQuery extends AbstractQuery
 {
     /**
      * Add should part to query
