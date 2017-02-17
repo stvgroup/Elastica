@@ -1,7 +1,8 @@
 {
-    "name": "stvgroup/elastica",
+    "name": "ruflin/elastica",
     "description": "Elasticsearch Client",
     "keywords": ["search","client"],
+    "homepage": "http://elastica.io/",
     "type": "library",
     "license": "MIT",
     "authors": [
